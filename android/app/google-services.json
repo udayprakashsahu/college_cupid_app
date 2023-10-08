@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "68300369131",
+    "project_id": "college-cupid",
+    "storage_bucket": "college-cupid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68300369131:android:7940f35a6275bf4c29a2ae",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68300369131-4b68m9gbedltruah6ulbhnrod61tf73p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project1",
+            "certificate_hash": "8b1bec8bfadafb22105536227ceacb6ecdf4afcf"
+          }
+        },
+        {
+          "client_id": "68300369131-qna85hqqgfsvbb4sdvugdcgs5p1rgr97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7WINqVAmZ4pDooK2ClvY2_JL1LyId5aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68300369131-b2qge7msstgom829n74i91kup8ra9lrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
